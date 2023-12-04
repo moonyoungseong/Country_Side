@@ -1,0 +1,74 @@
+[
+  {
+    "id": 100,
+    "type": 1,
+    "name": "토마토",
+    "stackable": true,
+    "price": "10000",
+    "explain": "붉은 빛이 나는 매우 신선한 토마토이다.덩굴식물로, 제철은 5월 중순경부터 9월까지로 주로 여름에 맛있는 토마토를 맛볼 수 있다",
+    "spritename": "sp_tomato"
+  },
+  {
+    "id": 101,
+    "type": 1,
+    "name": "딸기",
+    "stackable": true,
+    "price": "20000",
+    "explain": "붉은 빛이 나는 매우 신선한 딸기이다.특유의 단맛과 상큼함, 부드러움의 조화가 좋은 맛있는 열매이지만 보관이 어렵다는 단점을 가진다.",
+    "spritename": "sp_strawberry"
+  },
+  {
+    "id": 102,
+    "type": 1,
+    "name": "샤인머스켓",
+    "stackable": true,
+    "price": "30000",
+    "explain": "연두빛이 나는 매우 신선한 샤인머스켓이다.번들거리며 밝은 연두빛이 도는 껍질이 특징이며 껍질이 얇고 씨가 없어 날 것으로 먹기 편하다.",
+    "spritename": "sp_shinemusket"
+  },
+  {
+    "id": 103,
+    "type": 2,
+    "name": "느티나무",
+    "stackable": true,
+    "price": "100000",
+    "explain": "가지가 사방으로 고르게 퍼져 있으며, 잎이 많고 무성해서 넓은 나무 그늘을 만든다. 여름에 쉼터로 이용하거나 목재로 가공하여 재화로 사용할 수 있을것 같다.",
+    "spritename": "sp_zelkova"
+  },
+  {
+    "id": 104,
+    "type": 2,
+    "name": "소나무",
+    "stackable": true,
+    "price": "200000",
+    "explain": "따뜻한 기후와 적당한 햇빛을 좋아한다. 잎에서 다른 식물 경쟁자들을 제거하는 물질을 분비하기 때문에 소나무를 심으면 주변에 잡초가 안자란다고 한다.",
+    "spritename": "sp_pinetree"
+  },
+  {
+    "id": 105,
+    "type": 3,
+    "name": "컨테이너창고",
+    "stackable":false,
+    "price": "1000000",
+    "explain": "시골에서 흔히 볼 수 있는 컨테이너 창고이다. 인벤토리에 아이템이 모두 채워졌을 경우 여분의 아이템을 이곳에서 저장하면 될 것 같다.",
+    "spritename": "sp_container"
+  },
+  {
+    "id": 106,
+    "type": 3,
+    "name": "1층집",
+    "stackable": false,
+    "price": "2000000",
+    "explain": "시골에서 흔히 볼 수 있는 단독주택이다. 지어진지는 좀 되었지만 내부가 생각보다 깨끗하다고 한다. 갈색 벽돌 타일이 왠지 모르게 포근한 기운을 준다.",
+    "spritename": "sp_first_floor_house"
+  },
+  {
+    "id": 107,
+    "type": 3,
+    "name": "2층집",
+    "stackable": false,
+    "price": "3000000",
+    "explain": "시골에서 흔치 않은 2층 단독주택이다. 붉은 색과 푸른색 등 여러 색들이 골고루 섞여있어 화려하지만 뭔가 어디서 본것같은 기분이 들게하는 주택이다.",
+    "spritename": "sp_second_floor_house"
+  }
+]

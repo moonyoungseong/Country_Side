@@ -1,0 +1,26 @@
+﻿{
+  "conversation": 
+  [
+    {
+      "speaker": "NPC",
+      "line": "젊은이 트럭 기사하고는 인사는 했나?"
+    },
+    {
+      "speaker": "Player",
+      "line": "아니요 아직 아무하고도 대화한 적이 없어요"
+    },
+    {
+      "speaker": "NPC",
+      "line": "그렇다면 가서 운전사 김씨를 만나고 와보게나"
+    },
+    {
+      "speaker": "NPC",
+      "line": "김씨는 회관 옆에 있네"
+    }
+  
+   ]
+}
+
+
+
+ 

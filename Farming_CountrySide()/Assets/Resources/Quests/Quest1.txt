@@ -1,0 +1,29 @@
+﻿{
+  "conversation": 
+  [
+    {
+      "speaker": "NPC",
+      "line": "비가 오는구만, 왠지 허리가 쑤시더라니"
+    },
+    {
+      "speaker": "NPC",
+      "line": "혹시 내가 허리가 아파서 그런데 마을 어딘가에 있는 물좀 가져와 줄 수 있겠나?"
+    },
+    {
+      "speaker": "Player",
+      "line": "알겠어요 어떤 물인데요?"
+    },
+    {
+      "speaker": "NPC",
+      "line": "에.비.앙"
+    },
+   {
+      "speaker": "Player",
+      "line": ";;;"
+    }
+   ]
+}
+     
+   
+
+ 
