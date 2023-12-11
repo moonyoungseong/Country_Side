@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -71,5 +71,30 @@ public class CameraFollow : MonoBehaviour
         transform.position = Vector3.Lerp(transform.position, fixedPos, Time.deltaTime * delayTime);
 
         transform.LookAt(target.transform.position);
+    }
+}
+*/
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CameraFollow : MonoBehaviour
+{
+
+    public GameObject target;
+
+    public float offsetX;
+    public float offsetY;
+    public float offsetZ;
+
+    // Update is called once per frame
+    void Update()
+    {
+        Vector3 FixedPos =
+            new Vector3(
+            target.transform.position.x + offsetX,
+            target.transform.position.y + offsetY,
+            target.transform.position.z + offsetZ);
+        transform.position = FixedPos;
     }
 }
